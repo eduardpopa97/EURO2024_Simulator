@@ -1,0 +1,14 @@
+.header-nav {
+    background: darkblue;   
+}
+
+.header-ul li {
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    list-style-type: none;
+}
+
+.header-ul li:nth-child(2) {
+    margin-left: 950px;
+}
